@@ -1,6 +1,6 @@
 # 10-grocery-bud_App_React.js
 
-![image](https://user-images.githubusercontent.com/14126987/134945122-7eeb8b1b-1106-4275-abb7-bbbfe0485463.png)
+![image](https://user-images.githubusercontent.com/14126987/135077702-9a7a7be5-ace4-40ab-958c-e41b2ffc81e5.png)
 
 # Available Scripts
 
